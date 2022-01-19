@@ -1,6 +1,6 @@
 # Duration 
 This task has been done within 90 minutes.
-and it's not used any field name in code and sort work at the first with data default, then if click on headersort will begin.
+and it's not used any field name in code and sort work at the first with data default, then if click on header sort will begin.
 
 # Getting Started with Create React App
 
