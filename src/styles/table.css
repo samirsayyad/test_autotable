@@ -1,0 +1,16 @@
+.dynamic-table{
+    border: 1px solid gray;
+    width: 100%;
+    min-height: 40vh;
+    
+}
+.table-header{
+    cursor: pointer;
+}
+.dynamic-table td{
+    border: 1px solid gray;
+    padding: 5px;
+}
+.dynamic-table th:hover{
+    background-color: gray;
+}
